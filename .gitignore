@@ -1,0 +1,12 @@
+.git
+.DS_Store
+
+.terraform*
+terraform.tfstate
+terraform.tfstate.*
+
+11.bastion-user-data.sh.bak
+12.web-user-data.sh.bak
+
+00.test.tfvars.bak
+01.provider.tf.bak
